@@ -1,0 +1,23 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp-gits/Short-url.git"
+  },
+  "author": "Snehasish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sp-gits/Short-url/issues"
+  },
+  "homepage": "https://github.com/sp-gits/Short-url#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  }
+}
